@@ -1,0 +1,14 @@
+/Users/luiz/Documents/Projects/TradeClassification/bin/Debug/net9.0/TradeClassification
+/Users/luiz/Documents/Projects/TradeClassification/bin/Debug/net9.0/TradeClassification.deps.json
+/Users/luiz/Documents/Projects/TradeClassification/bin/Debug/net9.0/TradeClassification.runtimeconfig.json
+/Users/luiz/Documents/Projects/TradeClassification/bin/Debug/net9.0/TradeClassification.dll
+/Users/luiz/Documents/Projects/TradeClassification/bin/Debug/net9.0/TradeClassification.pdb
+/Users/luiz/Documents/Projects/TradeClassification/obj/Debug/net9.0/TradeClassification.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luiz/Documents/Projects/TradeClassification/obj/Debug/net9.0/TradeClassification.AssemblyInfoInputs.cache
+/Users/luiz/Documents/Projects/TradeClassification/obj/Debug/net9.0/TradeClassification.AssemblyInfo.cs
+/Users/luiz/Documents/Projects/TradeClassification/obj/Debug/net9.0/TradeClassification.csproj.CoreCompileInputs.cache
+/Users/luiz/Documents/Projects/TradeClassification/obj/Debug/net9.0/TradeClassification.dll
+/Users/luiz/Documents/Projects/TradeClassification/obj/Debug/net9.0/refint/TradeClassification.dll
+/Users/luiz/Documents/Projects/TradeClassification/obj/Debug/net9.0/TradeClassification.pdb
+/Users/luiz/Documents/Projects/TradeClassification/obj/Debug/net9.0/TradeClassification.genruntimeconfig.cache
+/Users/luiz/Documents/Projects/TradeClassification/obj/Debug/net9.0/ref/TradeClassification.dll
